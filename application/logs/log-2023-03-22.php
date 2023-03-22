@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-03-22 06:45:18 --> 404 Page Not Found: Assets/back
+ERROR - 2023-03-22 06:45:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 06:45:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 06:45:24 --> 404 Page Not Found: Admin/assets
+ERROR - 2023-03-22 06:45:24 --> 404 Page Not Found: Admin/assets
+ERROR - 2023-03-22 06:45:25 --> 404 Page Not Found: Admin/assets
+ERROR - 2023-03-22 06:45:25 --> 404 Page Not Found: Admin/assets
+ERROR - 2023-03-22 06:45:26 --> 404 Page Not Found: Admin/assets
+ERROR - 2023-03-22 06:45:26 --> 404 Page Not Found: Admin/assets
+ERROR - 2023-03-22 06:45:27 --> 404 Page Not Found: Admin/assets
+ERROR - 2023-03-22 06:45:27 --> 404 Page Not Found: Admin/assets
+ERROR - 2023-03-22 06:45:29 --> 404 Page Not Found: Admin/assets
+ERROR - 2023-03-22 06:45:29 --> 404 Page Not Found: Admin/assets
+ERROR - 2023-03-22 08:13:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 08:13:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 08:13:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 08:13:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 08:45:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 08:45:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 10:07:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 10:07:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 10:39:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 10:39:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 12:56:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 12:56:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 13:54:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-03-22 13:54:48 --> 404 Page Not Found: Assets/plugins
